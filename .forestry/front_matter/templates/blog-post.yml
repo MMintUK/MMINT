@@ -1,0 +1,63 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group
+  name: cover
+  label: cover
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: alt
+    label: alt
+  - type: text
+    name: caption
+    label: caption
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+pages:
+- content/posts/1842-pilsner-urquell.md
+- content/posts/collab-w-animal-shelter-seoul-s.korea.md
+- content/posts/general-pumpkin.md
+- content/posts/house-of-vans.md
+- content/posts/huitzilopochtli-wip.md
+- content/posts/huitzilopochtli.md
+- content/posts/i-am-the-moon-skateboard.md
+- content/posts/i-k-a-r-o-a-framed-print.md
+- content/posts/ikaroa-ultraviolet-silkscreen-printing-video.md
+- content/posts/ikaroa.md
+- content/posts/kim-jong-un-friends.md
+- content/posts/life-seoul-national-gallery-exhibition.md
+- content/posts/monkey-terrorist-seoul.md
+- content/posts/monsieur-pierre-queensland-australia.md
+- content/posts/no-stopping-pussy-kat-sydney-australia.md
+- content/posts/punk-magpie-yelsultong-art-festival-chungmuro-seoul-s.korea.md
+- content/posts/pussy-kat-plank-sydney-australia.md
+- content/posts/sexy-beast.md
+- content/posts/the-making-of-an-ultraviolet-silkscreen-photography-print-collaboration-with-noe-alonzo-neon-cityscape-seoul.md
+- content/posts/the-making-of-an-ultraviolet-silkscreen-photography-print-noe-alonzo-hong-kong.md
+- content/posts/the-short-analysis-of-uncertainty-exhibition-daegu.md
+- content/posts/tiger-balm-t-shirt.md
+- content/posts/tiger-lair-mural-section-one-gangnam-seoul-s.korea.md
+- content/posts/tiger-lair-mural-seoul-s-korea.md
+- content/posts/tiger-lair-short-film-ultraviolet-mural.md
+- content/posts/tiger-lair-ultraviolet-mural-video.md
+- content/posts/untitled-sketch.md
+- content/posts/untitled-stencil-on-wood.md
+- content/posts/vans-apgujeong-grand-opening-seoul-s.korea.md
+- content/posts/vishnu-illustration.md
+- content/posts/vishnu.md
+- content/posts/winter-tiger-lair-part-4-ultraviolet-mural-video.md
+- content/posts/yelsultong-street-art-mural-festival-video-chungmuro-seoul.md
