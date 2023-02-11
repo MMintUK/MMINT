@@ -5,7 +5,7 @@ cover:
   alt: ""
   caption: ""
   image: /1842_rob_green_1456.jpg
-title: "'1842' | Pilsner Urquell"
+title: Test '1842' | Pilsner Urquell
 tags:
   - sketch
 image: uploads/1842_sketch_rob_green_mmint_seoul_detail.jpg
