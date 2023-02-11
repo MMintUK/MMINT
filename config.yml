@@ -1,12 +1,12 @@
 baseURL: "https://mmint.uk"
-languageCode: en-us
-title: "@MMINT.UK"
+languageCode: en-uk
+title: "MMINT.UK"
 theme: PaperMod
 
 params:
   homeInfoParams:
     Title: "Welcome to MMINT.UK | Paintings | Illustration | Murals | Silkscreen Prints"
-    Content: A collection of works by Artist Rob Green that explore the mythological, political and philosophical concepts through a lens of pop art and street art. On a mission to inspire a positive change for a better world! 
+    Content: A collection of works by Artist Rob Green that explore the mythological, political and philosophical concepts through a lens of pop art and street art.
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/mmint.uk"
