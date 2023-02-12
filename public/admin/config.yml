@@ -6,7 +6,7 @@ media_folder: static
 public_folder: static
 # for local testing
 # npx netlify-cms-proxy-server
-local_backend: false
+local_backend: true
 
 collections:
   - name: 'posts'
