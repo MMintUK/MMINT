@@ -10,7 +10,7 @@ image = "/37D8BAB4-213D-459B-9EE7-EFE1DD306465.JPG"
 
 +++
 
-Check out this #nighttime #cityscape collection of photographic #silkscreen #prints I made in collaboration with @noealzii. Developing an original printing method that combines both the CMYK & RGB printing processes as well as using #ultraviolet inks on black paper allowed for some truly experimental printing that gave us some extremely interesting variants and really brought his work to life! 
+Check out this nighttime cityscape collection of photographic silkscreen prints I made in collaboration with @noealzii. Developing an original printing method that combines both the CMYK & RGB printing processes as well as using ultraviolet inks on black paper allowed for some truly experimental printing that gave us some extremely interesting variants and really brought his work to life! 
 
 ![](/217BA876-FB23-4C1F-A3B7-55B38C9BD25B.JPG)
 
