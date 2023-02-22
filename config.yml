@@ -33,12 +33,16 @@ params:
 
 menu:
   main:
+    - indentifer: shop
+      name: shop
+      url: https://shop.mmint.uk
+      weight: 10
     - indentifer: categories
       name: categories
       url: /categories/
-      weight: 10
+      weight: 20      
     - indentifer: tags
       name: tags
       url: /tags/
-      weight: 20  
+      weight: 30  
       
