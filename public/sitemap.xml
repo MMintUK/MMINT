@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mmint.uk/</loc>
-    <lastmod>2022-10-25T23:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mmint.uk/categories/</loc>
     <lastmod>2022-10-25T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmint.uk/posts/cmyk-rgb-ultraviolet-night-photography-silkscreen-print-collection-mmint.uk-rob-green-noe-alonzo-neon-japan/</loc>
+    <lastmod>2022-10-25T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmint.uk/</loc>
     <lastmod>2022-10-25T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmint.uk/tags/neon/</loc>
