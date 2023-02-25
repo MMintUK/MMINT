@@ -2,6 +2,7 @@ baseURL: "https://mmint.uk"
 languageCode: en-uk
 title: "MMINT.UK"
 theme: PaperMod
+label.icon: mmint_logo.svg
 
 params:
   homeInfoParams:
