@@ -1,8 +1,7 @@
 baseURL: "https://mmint.uk"
 languageCode: en-uk
-label.icon: "mmint_logo.svg"
+titleURL: "mmint_logo.svg"
 theme: PaperMod
-label.icon: "mmint_logo.svg"
 
 params:
   homeInfoParams:
