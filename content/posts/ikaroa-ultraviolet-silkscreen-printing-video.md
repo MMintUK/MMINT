@@ -1,3 +1,35 @@
+---
+_template: blog_post
+---
+
+
+
+
+
+
+
+
+
+
+
++++
+_template = "blog_post"
++++
+
+---
+_template: blog_post
+---
+
+
+
++++
+_template = "blog_post"
++++
+
+---
+_template: blog_post
+---
+
 +++
 categories = ["video", "illustration"]
 date = 2020-06-17T23:00:00Z

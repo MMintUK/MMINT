@@ -1,3 +1,35 @@
+---
+_template: blog_post
+---
+
+
+
+
+
+
+
+
+
+
+
++++
+_template = "blog_post"
++++
+
+---
+_template: blog_post
+---
+
+
+
++++
+_template = "blog_post"
++++
+
+---
+_template: blog_post
+---
+
 +++
 categories = ["illustration"]
 date = 2019-10-07T23:00:00Z
