@@ -1,35 +1,3 @@
----
-_template: blog_post
----
-
-
-
-
-
-
-
-
-
-
-
-+++
-_template = "blog_post"
-+++
-
----
-_template: blog_post
----
-
-
-
-+++
-_template = "blog_post"
-+++
-
----
-_template: blog_post
----
-
 +++
 categories = ["painting"]
 date = 2016-11-20T00:00:00Z

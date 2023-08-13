@@ -1,35 +1,3 @@
----
-_template: blog_post
----
-
-
-
-
-
-
-
-
-
-
-
-+++
-_template = "blog_post"
-+++
-
----
-_template: blog_post
----
-
-
-
-+++
-_template = "blog_post"
-+++
-
----
-_template: blog_post
----
-
 +++
 categories = ["video", "painting"]
 date = 2020-06-14T23:00:00Z
